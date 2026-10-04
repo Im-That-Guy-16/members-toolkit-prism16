@@ -5,10 +5,10 @@
 // @description  A members toolkit fork patched to keep local features working while the legacy API is unavailable.
 // @author       HJ-OTMOP; Prism 16 fork
 // @license MIT
-// @downloadURL  https://gitlab.com/Prism_16/members-toolkit-prism16/-/raw/main/Members_Toolkit.user.js
-// @updateURL    https://gitlab.com/Prism_16/members-toolkit-prism16/-/raw/main/Members_Toolkit.user.js
-// @homepageURL  https://gitlab.com/Prism_16/members-toolkit-prism16
-// @supportURL   https://gitlab.com/Prism_16/members-toolkit-prism16/-/issues
+// @downloadURL  https://raw.githubusercontent.com/Im-That-Guy-16/members-toolkit-prism16/main/Members_Toolkit.user.js
+// @updateURL    https://raw.githubusercontent.com/Im-That-Guy-16/members-toolkit-prism16/main/Members_Toolkit.user.js
+// @homepageURL  https://github.com/Im-That-Guy-16/members-toolkit-prism16
+// @supportURL   https://github.com/Im-That-Guy-16/members-toolkit-prism16/issues
 // @copyright 	 2018-2022, HJ-OTMOP (https://openuserjs.org/users/HJ-OTMOP)
 // @icon         https://ptpimg.me/6uob9q.png
 // @match        https://passthepopcorn.me/*
